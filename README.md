@@ -21,4 +21,15 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes
+=================
+I changes the background colour of the body from white to a gradient.
+I changed the font family of the texts(font-family: "URW Chancery L", "cursive")
+I changed the colour of the links and first letter in each paragraph to maroon.
+I made the first letter in each paragraph significantly larger the the rest of the texts in each paragraph.
+I changed the header colours
+
+
+
+
 

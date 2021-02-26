@@ -1,0 +1,156 @@
+ html {
+    height: 100%;
+} 
+
+
+body { 
+    margin-right:10%;
+    margin-left:10%;
+    font-size:xx-large;
+    text-align:justify;
+    font-family: "URW Chancery L", "cursive";
+
+    }
+body{
+    background: linear-gradient(#c2e9fb, #ffd1ff);   
+    background-position:  center;
+    background-repeat: repeat;
+    background-size: 50%;
+    opacity: 100%;
+    background-attachment:fixed;
+    background-size: cover; 
+}
+
+pre{
+    font-family: "URW Chancery L", "cursive";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center; 
+    font-style: normal; 
+    font-weight:normal; 
+    line-height: 1.5; 
+    margin-top: .5em;
+    margin-bottom: .5em;
+    
+}  
+
+h2{
+    color: blueviolet;
+}
+
+h1{
+    color: maroon;
+}
+
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    padding: 2%;
+   
+    }
+
+
+p.noindent { 
+    text-indent:0%;
+    }
+
+p.footnote { 
+    font-size:small;
+    text-indent:0;
+    margin-left:0;
+    margin-right:0; 
+    }
+
+p.quotation {
+    text-align:right; 
+    text-indent:0; 
+    font-style:italic;
+    }
+                    
+p.finis { 
+    text-align:center;
+    text-indent:0;
+    margin-left:0;
+    margin-right:0; 
+    }
+
+p.poem {
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: 90%;
+    margin-top: 1em;
+    margin-bottom: 1em; 
+        }
+
+p.right {
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 0.25em;
+    margin-bottom: 1em; 
+    }
+
+p.center{
+    text-align: center;
+    text-indent: 0em;
+    margin-top: 1em;
+    margin-bottom: 1em; 
+    }
+
+hr {
+    width: 80%; 
+    margin-top: 2em; 
+    margin-bottom: 2em;
+    }
+
+div.boilerplate{ 
+    margin-top:1em; 
+    margin-bottom:1em;
+    }  
+   
+div.boilerplate p{ 
+    text-indent:0em;
+    margin-top:1em; 
+    margin-bottom:1em;
+    } 
+
+
+
+div.footer{ 	  
+    text-indent:0; 
+    text-align:justify;                                      
+    font-size:80%; 
+    padding-left:10%; 
+    padding-right:10%;
+    }	
+
+div.chapter{
+    page-break-before: always; 
+    margin-top: 4em;
+    }
+
+
+div.fig { display:block;
+    margin:0 auto;
+    text-align:center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+a:link { color: maroon;; text-decoration:none}
+a:visited { color: maroon;; text-decoration:none}
+a:hover {color:none}
+
+
+p::first-letter{
+    color: maroon;
+    font-size: 200%;
+}
+
+
+  
+
+
+
+

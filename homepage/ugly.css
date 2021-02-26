@@ -1,0 +1,105 @@
+
+html { 
+  overflow-y: scroll; 
+}
+
+.sidenav {
+  height: 15%;
+  width: 100%; 
+  position:fixed ; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color:tomato; 
+  padding-top: 20px;
+  border-top-right-radius: 2%;
+  padding: 20px;
+}
+
+/* .sidenav{
+  position: -webkit-sticky;
+} */
+.sidebarText{
+  color: blanchedalmond;
+  text-align: left; 
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 90vh;
+  width: 100vw;
+  height: 100%;
+  width: 100%;
+  background-color:rgb(121, 20, 121);  
+
+
+}
+
+#bkgimg{
+  height: 100%;
+  width: 100%;
+}
+
+
+
+.main {
+  height: 100%;
+  width: 100%;
+  background-color:maroon;
+ 
+  
+}
+
+img, h1 {
+  width: 25%;
+  height: 20%;
+  margin-left: 2%;
+}
+
+.container{
+  background-color: turquoise;
+  size: 15%;
+ 
+
+
+}
+
+.container h2, p, h3{
+  color: #000;
+  margin-left: 2%;
+}
+
+.container h2{
+  margin-top: 0%;
+}
+
+
+
+
+
+.textstyle {
+
+  font-style: italic;
+  width:fit-content;
+  padding: 0.5%;
+}
+
+#phdiv1{
+  color: #000;
+  margin-right: 300%;
+  border-radius: 0.25em;
+  width:100%;
+}
+
+#phdiv2{
+  color: #000;
+  margin-right: 2%;
+  border-radius: 0.25em;
+  width:70%;
+ 
+}
+
+
+  
