@@ -23,7 +23,7 @@ Code is licensed under the Apache 2.0 license.
 
 Changes
 =================
-I changes the background colour of the body from white to a gradient.
+I changed the background colour of the body from white to a gradient.
 
 I changed the font family of the texts(font-family: "URW Chancery L", "cursive")
 
